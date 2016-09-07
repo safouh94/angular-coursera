@@ -1,2 +1,2 @@
 # angular-coursera
-Test reop for coursera
+Test repo for coursera
